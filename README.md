@@ -4,7 +4,7 @@
 
 Neste repositório estão os projetos desenvolvidos durante durante o curso  [Java - Programação Orientada a Objetos (Professor Nelio Alves)](https://www.udemy.com/course/java-curso-completo/). 
 
-(Creation of methods, constructors, toString, static members, encapsulation, constructors getters and setters, vectors, and arrays).
+(Methods, constructors, toString, static members, encapsulation, constructors getters and setters, vectors, and arrays).
 
 ### 💻 Linguagens utilizadas: Java
 
