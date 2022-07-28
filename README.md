@@ -8,8 +8,13 @@ Neste repositório estão os exercícios realizados durante o curso - [Java - Pr
 
 #### 📚 Temas abordados:
 
-✓ Saída de dados: Locale; Concatenação de vários elementos. </br>
-✓ Estruturas Sequenciais: Entrada, processamentos e saída de dados; Funções Matemáticas; Casting de tipos primitivos. </br>
-✓ Estruturas Condicionais: Encadeamento de estruturas condicionais. </br>
-✓ Estruturas Repetitivas. </br>
-✓ Vetores.
+✓ Classes, Atributos e Métodos
+✓ Object e *toString* 
+
+✓ Membros Estáticos 
+✓ Contrutores e palavra *this* </br>
+✓ Sobrecarga e Encapsulamento </br>
+✓ Vetores e *Arrays* </br>
+✓ *Wrapper* classes </br>
+✓ Laço *for each* </br>
+✓ Object e *toString* </br>
