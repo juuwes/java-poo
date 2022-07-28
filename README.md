@@ -1,24 +1,27 @@
 ### Exercícios Programação Orientada a Objetos - Java <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-Neste repositório estão os exercícios realizados durante o curso - [Java - Programação Orientada a Objetos (Professor Nelio Alves)](https://www.udemy.com/course/java-curso-completo/).
+⚙ *Curso em andamento*
 
-#### 💻 Linguagens utilizadas: Java
+Neste repositório estão os exercícios sobre realizados durante o curso - [Java - Programação Orientada a Objetos (Professor Nelio Alves)](https://www.udemy.com/course/java-curso-completo/).
 
+(Exercises about Classes; Attributes; Methods; Object and toString; Static Members; Constructors ; Overload; Encapsulation; Vectors; Lists; Arrays; Wrapper classes; For-each loop; Date-time, Date and Calendar; Composition; Enums).
 
+### 💻 Linguagens utilizadas: Java
 
-#### 📚 Temas abordados:
+### 📚 Temas abordados:
 
-✓ Classes, Atributos e Métodos
-✓ Object e *toString* 
+✓ Classes, Atributos e Métodos. </br>
+✓ Object e *toString*. </br>
+✓ Membros Estáticos. </br>
+✓ Construtores e palavra *this*. </br>
+✓ Sobrecarga e Encapsulamento. </br>
+✓ Vetores, Listas e *Arrays*. </br>
+✓ *Wrapper* classes. </br>
+✓ Laço *for-each*. </br>
+✓ Data-hora, *Date* e *Calendar*. </br>
+✓ Composição e *Enums*.
 
-✓ Membros Estáticos 
-✓ Contrutores e palavra *this* </br>
-✓ Sobrecarga e Encapsulamento </br>
-✓ Vetores e *Arrays* </br>
-✓ *Wrapper* classes </br>
-✓ Laço *for each* </br>
-✓ Object e *toString* </br>
-
+## 🚩 Projetos
 - <b>Projeto #1 - project_rectangle:</b> Programa para calcular e mostrar valor da área, perímetro e diagonal.
 
 - <b>Projeto #2 - project_employee:</b> Programa para ler os dados de um funcionário, mostrando seus dados e aumentando o salário do funcionário com base em uma porcentagem.
