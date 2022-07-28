@@ -1,6 +1,6 @@
 ### Exercícios Programação Orientada a Objetos - Java <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-⚙ *Curso em andamento*
+⚙ *Curso em andamento*.
 
 Neste repositório estão os exercícios sobre realizados durante o curso - [Java - Programação Orientada a Objetos (Professor Nelio Alves)](https://www.udemy.com/course/java-curso-completo/).
 
