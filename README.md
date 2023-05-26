@@ -2,8 +2,6 @@
 
 <div align="justify">
 
-⚙ *Curso em andamento*.
-
 Neste repositório estão os exercícios sobre realizados durante o curso - [Java - Programação Orientada a Objetos (Professor Nelio Alves)](https://www.udemy.com/course/java-curso-completo/).
 
 (Exercises about classes; attributes; methods; object and toString; static members; constructors ; overload; encapsulation; vectors; lists; arrays; Wrapper classes; for-each loop; date-time, date and calendar; composition; enums).
